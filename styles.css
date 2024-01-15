@@ -1,0 +1,17 @@
+#main{
+    width: 100%;
+    height: 100%;
+    background-color: #ffebcd;
+}
+.container{
+    padding: 10vw 25vw;
+}
+input{
+    width: 100%;
+    padding: 12px 22px;
+    font-size: 30px;
+    font-weight: 400px;
+    border: 1px solid #ffebcd;
+    border-color: steelblue;
+}
+
